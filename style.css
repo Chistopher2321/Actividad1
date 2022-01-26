@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 225, 255);
+}
+H3{
+    text-align: center;
+    color: blue;
+}
+p{
+    text-align: center;
+    color: blue;
+    background-color: gray;
+    font-size: 20px;
+}
+h1{
+    text-align: right;
+    color: blue;
+}
+b{
+    color: red;
+}
